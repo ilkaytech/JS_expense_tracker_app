@@ -10,7 +10,7 @@ Project aims to create applications using HTML , CSS, JS
 Expense Tracker App (folder)
 |
 |----readme.md         # Definition of the project
-|----index.html            # Images of the project
+|----index.html
 |----style.css
 |----script.js
 
