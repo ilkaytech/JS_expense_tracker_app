@@ -18,7 +18,7 @@ Expense Tracker App (folder)
 
 ## Outcome
 
-🔗 [Camping Website](netlify.app)
+🔗 [Camping Website](https://expencetracker-app.netlify.app)
 
 ![Project  Snapshot](./tracker.gif)
 
@@ -32,4 +32,4 @@ Expense Tracker App (folder)
 
 ## Resources
 
-- [Images](./assets)
+- [Images](./Mobile.png)
